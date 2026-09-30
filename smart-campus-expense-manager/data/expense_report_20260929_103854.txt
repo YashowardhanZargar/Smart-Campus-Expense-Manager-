@@ -1,0 +1,15 @@
+SMART CAMPUS EXPENSE & BUDGET MANAGER
+=============================================
+Generated: 2026-09-29 10:38:54
+
+Total Expenses : ₹0.00
+Budget         : ₹100000000.00
+Remaining      : ₹100000000.00
+Average Expense: ₹0.00
+
+CATEGORY-WISE SUMMARY
+-------------------------
+No expenses recorded.
+
+EXPENSE DETAILS
+-------------------------
